@@ -1,0 +1,22 @@
+{
+  "wheel_id": 689,
+  "structure": "umbrella",
+  "slug": "thechildcarenearme-com-109",
+  "project": "childcare-centres-brisbane-how-to-choose-475dbf1f67b31fea73d2b7",
+  "parent_t1_ref": "thechildcarenearme-com-154",
+  "node_role": "feeder",
+  "money_target": "thechildcarenearme.com.au",
+  "primary_kw": "childcare centres brisbane how to choose",
+  "intended_url": "http://childcare-centres-brisbane-how-to-choose-475dbf1f67b31fea73d2b7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "e6b81b0a51409691",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/thechildcarenearme-com-154/",
+      "anchor": "childcare centres brisbane cost guide explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
